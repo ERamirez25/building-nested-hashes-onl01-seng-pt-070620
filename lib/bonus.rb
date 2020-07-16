@@ -20,7 +20,7 @@ def bonus
    }
   }
 
- epic_tragedy["Juliet"][:heroine][status:] << "alive"
+ epic_tragedy["Juliet"][:heroine][status:] = "alive"
 
   
 
