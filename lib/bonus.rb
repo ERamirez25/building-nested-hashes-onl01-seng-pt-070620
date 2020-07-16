@@ -20,7 +20,9 @@ def bonus
    }
   }
 
-  #code your solution here:
+  epic_tragedy = capulet["Juliet"]
+   = epic_tragedy[:]
+  
 
   
 
